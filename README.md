@@ -1,4 +1,4 @@
-# 🤖 NLP-ML Learning Journey 
+#  NLP-ML Learning Journey 
 
 Welcome to my **NLP-ML** learning repository.
 
@@ -10,7 +10,7 @@ The goal of this repository is not only to understand theoretical concepts but a
 
 # 📚 Learning Roadmap
 
-## ✅ Text Preprocessing
+##  Text Preprocessing
 
 - Tokenization
 - Stemming
@@ -22,7 +22,7 @@ The goal of this repository is not only to understand theoretical concepts but a
 
 ---
 
-## 🚧 Feature Encoding
+##  Feature Encoding
 
 - One Hot Encoding
 - Label Encoding
@@ -116,7 +116,7 @@ This repository aims to build a strong foundation in:
 
 # 📈 Progress Tracker
 
-## ✅ Completed
+##  Completed
 
 - [x] Tokenization
 - [x] Stemming
@@ -127,7 +127,7 @@ This repository aims to build a strong foundation in:
 - [x] Feature Encoding Folder Created
 - [x] One Hot Encoding
 
-## 🚧 In Progress
+##  In Progress
 
 - [ ] Label Encoding
 
@@ -151,13 +151,13 @@ This repository aims to build a strong foundation in:
 
 B.Tech (Information Technology)
 
-Currently learning:
+### 🎯 Focus Areas
 
 - Artificial Intelligence & Machine Learning
 - Natural Language Processing
 - Data Structures & Algorithms
 - Full Stack Development
-
+  
 ---
 
 ⭐ If you find this repository useful, consider giving it a **Star**.
