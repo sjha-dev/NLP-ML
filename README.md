@@ -1,61 +1,163 @@
-# NLP Learning Journey 🚀
+# 🤖 NLP-ML Learning Journey 
 
-This repository contains my hands-on learning and practice notebooks for Natural Language Processing (NLP) using Python and NLTK.
+Welcome to my **NLP-ML** learning repository.
 
-## 📚 Topics Covered
+This repository documents my complete journey of learning **Natural Language Processing (NLP)** and **Machine Learning (ML)** through hands-on coding, notebooks, and practical implementations.
+
+The goal of this repository is not only to understand theoretical concepts but also to build real-world intuition by implementing every topic from scratch.
+
+---
+
+# 📚 Learning Roadmap
+
+## ✅ Text Preprocessing
 
 - Tokenization
 - Stemming
 - Lemmatization
-- Text Preprocessing
 - Stopwords Removal
 - Text Cleaning
-- NLP Pipelines
+- Part of Speech (POS) Tagging
+- Named Entity Recognition (NER)
 
-## 📂 Repository Structure
+---
 
-```bash
+## 🚧 Feature Encoding
+
+- One Hot Encoding
+- Label Encoding
+- Ordinal Encoding
+- Binary Encoding
+- Frequency Encoding
+- Target Encoding
+
+---
+
+## 📅 Upcoming Topics
+
+### Text Vectorization
+
+- Bag of Words (BoW)
+- N-Grams
+- TF-IDF
+
+### Word Embeddings
+
+- Word2Vec
+- FastText
+- GloVe
+- Doc2Vec
+
+### Transformers
+
+- BERT
+- RoBERTa
+- GPT
+- Sentence Transformers
+
+### NLP Projects
+
+- Spam Detection
+- Sentiment Analysis
+- Text Classification
+- Fake News Detection
+- Question Answering
+- Chatbots
+- Text Summarization
+
+---
+
+# 📂 Repository Structure
+
+```text
 NLP-ML/
+│
+├── Feature_Encoding/
+│   ├── One_Hot_Encoding.ipynb
+│   └── README.md
 │
 ├── 01_tokenization_example.ipynb
 ├── 02_stemming.ipynb
 ├── 03_lemmatization.ipynb
 ├── 04_text_preprocessing_stopwords_withNLTK.ipynb
+├── 05_Part_of_Speech_tagging.ipynb
+├── 06_Named_Entity_Recognition.ipynb
+│
+├── NLP-Pipeline.md
 └── README.md
 ```
 
-## 🛠️ Technologies Used
+---
+
+# 🛠️ Technologies Used
 
 - Python
 - Jupyter Notebook
 - NLTK
-- NumPy
 - Pandas
+- NumPy
+- Scikit-learn
 
-## 🎯 Goal
+---
 
-To build a strong foundation in Natural Language Processing and gradually move towards:
+# 🎯 Repository Goals
 
-- Text Classification
-- Sentiment Analysis
-- Named Entity Recognition (NER)
-- Machine Translation
+This repository aims to build a strong foundation in:
+
+- Natural Language Processing (NLP)
+- Machine Learning (ML)
+- Feature Engineering
+- Text Representation
+- Word Embeddings
+- Transformer Models
 - Large Language Models (LLMs)
 
-## 📈 Progress
+---
+
+# 📈 Progress Tracker
+
+## ✅ Completed
 
 - [x] Tokenization
 - [x] Stemming
 - [x] Lemmatization
 - [x] Stopwords Removal
-- [ ] POS Tagging
-- [ ] Named Entity Recognition
-- [ ] Text Vectorization
-- [ ] Word Embeddings
+- [x] Part of Speech (POS) Tagging
+- [x] Named Entity Recognition (NER)
+- [x] Feature Encoding Folder Created
+- [x] One Hot Encoding
+
+## 🚧 In Progress
+
+- [ ] Label Encoding
+
+## 📅 Upcoming
+
+- [ ] Bag of Words
+- [ ] TF-IDF
+- [ ] Word2Vec
+- [ ] FastText
+- [ ] GloVe
+- [ ] BERT Embeddings
 - [ ] Sentiment Analysis
+- [ ] Text Classification
+- [ ] NLP Projects
 
-## 👨‍💻 Author
+---
 
-Sudhanshu Shekhar Jha
+# 👨‍💻 Author
 
-Learning NLP, AI/ML, DSA and Full Stack Development.
+**Sudhanshu Shekhar Jha**
+
+B.Tech (Information Technology)
+
+Currently learning:
+
+- Artificial Intelligence & Machine Learning
+- Natural Language Processing
+- Data Structures & Algorithms
+- Full Stack Development
+
+---
+
+⭐ If you find this repository useful, consider giving it a **Star**.
