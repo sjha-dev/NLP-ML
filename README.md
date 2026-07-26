@@ -65,9 +65,9 @@ The goal of this repository is not only to understand theoretical concepts but a
 - Chatbots
 - Text Summarization
 
----
 
-# 📂 Repository Structure
+
+## 📂 Repository Structure
 
 ```text
 NLP-ML/
@@ -75,6 +75,11 @@ NLP-ML/
 ├── Feature_Encoding/
 │   ├── One_Hot_Encoding.ipynb
 │   └── README.md
+│
+├── Feature_Extraction/
+│   ├── n_grams.ipynb
+│   ├── TF-IDF.ipynb
+│   └── wordEmbeddings.ipynb
 │
 ├── 01_tokenization_example.ipynb
 ├── 02_stemming.ipynb
@@ -84,10 +89,12 @@ NLP-ML/
 ├── 06_Named_Entity_Recognition.ipynb
 │
 ├── NLP-Pipeline.md
+├── LICENSE
+├── .gitignore
 └── README.md
 ```
 
----
+
 
 # 🛠️ Technologies Used
 
